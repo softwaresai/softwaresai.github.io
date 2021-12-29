@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7960fbed.chunk.css",
+    "main.js": "/static/js/main.eaa31fe0.chunk.js",
+    "main.js.map": "/static/js/main.eaa31fe0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0cc5a5e2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0cc5a5e2.js.map",
+    "static/js/2.6411c4c8.chunk.js": "/static/js/2.6411c4c8.chunk.js",
+    "static/js/2.6411c4c8.chunk.js.map": "/static/js/2.6411c4c8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.908f504aa460a89e390fa13d1c7f9be1.js": "/precache-manifest.908f504aa460a89e390fa13d1c7f9be1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7960fbed.chunk.css.map": "/static/css/main.7960fbed.chunk.css.map",
+    "static/media/Agile_Project.png": "/static/media/Agile_Project.749a9cbc.png",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Experience.svg": "/static/media/Experience.06de6fa5.svg",
+    "static/media/Sai_Teja_Programmer.png": "/static/media/Sai_Teja_Programmer.b9d92862.png",
+    "static/media/Sai_Teja_Reddy_Palam.jpg": "/static/media/Sai_Teja_Reddy_Palam.9792f234.jpg",
+    "static/media/Sathyabama_Institute_of_Science_and_Technology_logo.png": "/static/media/Sathyabama_Institute_of_Science_and_Technology_logo.7a77f880.png",
+    "static/media/StFX.png": "/static/media/StFX.0d5399ad.png",
+    "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
+    "static/media/cognitiveclassai.jpg": "/static/media/cognitiveclassai.d3ac9d4a.jpg",
+    "static/media/education.png": "/static/media/education.b620850d.png",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
+    "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
+    "static/media/hp_logo.png": "/static/media/hp_logo.74805e59.png",
+    "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cc5a5e2.js",
+    "static/js/2.6411c4c8.chunk.js",
+    "static/css/main.7960fbed.chunk.css",
+    "static/js/main.eaa31fe0.chunk.js"
+  ]
+}
